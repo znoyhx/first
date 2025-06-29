@@ -8,6 +8,7 @@ int main(){
     //urgent require
     cout<<"!!!!!!!!"<<endl;
     cout<<"6666";
+    cout<<"manbaout";
     return 0;
 
 }

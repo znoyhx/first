@@ -1,0 +1,3 @@
+[submodule "some_question"]
+	path = some_question
+	url = https://github.com/znoyhx/some_question
